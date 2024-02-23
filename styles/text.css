@@ -1,0 +1,215 @@
+.container--text--card {
+    margin-left: 30px;
+    position: absolute;
+    width: 445px;
+    height: 107px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.container--contest--text--card {
+    margin-left: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    width: 445px;
+    height: 107px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.text--bold {
+    margin-top: 8px;
+    margin-bottom: 0;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: left;
+    text-transform: uppercase
+}
+
+.text--more {
+    margin: 0;
+}
+
+.text--more--bold {
+    padding: 0;
+}
+
+.text--more--color {
+    color: rgb(199, 198, 22);
+    font-weight: 700;
+}
+
+.text--card--bold {
+    font-weight: 700;
+    margin-top: 0;
+}
+
+.text-button--card {
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 12px;
+    letter-spacing: inherit;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.text-button--shop {
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    text-align: center;
+}
+
+.container--text--card--recept {
+    width: 292px;
+    height: 102px;
+    margin-top: 16px;
+    margin-left: 18px;
+
+}
+.text--categories--recept {
+    margin-right: 70px;
+    font-weight: 200;
+    font-size: 17px;
+    font-style: oblique;
+}
+
+.card--text--more {
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 12px;
+    letter-spacing: 0;
+    text-align: center;
+
+}
+
+.text--video {
+    margin-left: 9px;
+    margin-top: 6px;
+    margin-bottom: 0;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.text--contest {
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 68px;
+    font-weight: 700;
+    line-height: 83px;
+    text-align: left;
+}
+
+.text--header {
+    font-family: 'Montserrat',sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.text--info--contest {
+    margin-top: 26px;
+    margin-bottom: 12px;
+    font-weight: 400;
+    line-height: 0;
+    text-align: justify;
+}
+
+.text--hashtag {
+    font-weight: 600;
+}
+
+.text--under--image {
+    width: 161px;
+    margin-bottom: 39px;
+    text-align: right;
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0;
+}
+
+.text--header--obl {
+    margin-right: 70px;
+    font-weight: 200;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.text--header--bold {
+    margin-top: 8px;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    text-align: left;
+    text-transform: uppercase
+}
+.text--regular--product {
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 6px;
+}
+.text--list--product {
+    font-family: 'Montserrat',sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 6px;
+}
+
+.text--wo-list {
+    font-family: 'Montserrat',sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 3px;
+    margin-left: 30px;
+}
+
+.text--filling--list {
+    margin-top: 16px;
+}
+
+.container--text--list--sauce {
+    margin-top: 24px;
+}
+
+.text--number--bold {
+    font-family: 'Montserrat',sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.text--methods--cooking {
+    font-family: 'Montserrat',sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    margin-bottom: 6px;
+}
+
+.text--hashtag--recept {
+    font-weight: 600;
+    font-size: 12px;
+    transform: rotate(180.00deg);
+    writing-mode: vertical-lr;
+    margin: -800px 24px 600px 550px;
+
+}

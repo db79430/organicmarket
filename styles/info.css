@@ -1,0 +1,51 @@
+.container--contest {
+    margin-top: 30px;
+    display: block;
+    flex-direction: column;
+    width: 1120px;
+    height: 671px;
+    background-color: #DECFDC;
+    border-radius: 20px;
+    box-shadow: 0 1px 22px 0, rgba(0, 0, 0, 0.1);
+
+}
+
+.container--header-contest {
+    display: flex;
+    margin-left: 50px;
+}
+
+.logo {
+    margin-left: 580px;
+    margin-top: 48px;
+    width: 98px;
+    height: 118px;
+}
+
+.container--text--contest--info {
+    margin-left: 50px;
+    width: 1020px;
+    height: 460px;
+}
+
+.container--text--contest {
+    margin-bottom: 26px;
+    margin-top: 12px;
+}
+
+.card--contest--info {
+    margin-top: 12px;
+}
+
+.text--regular {
+    font-size: 20px;
+    margin-left: 5px;
+    font-weight: 200;
+
+}
+
+.text--number {
+    font-size: 20px;
+    font-weight: 200;
+    margin-bottom: 3px;
+}

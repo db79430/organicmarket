@@ -1,0 +1,23 @@
+html, body {
+    max-width: 1120px;
+    margin: 0 auto;
+    position: relative;
+    -ms-overflow-style: none;
+    font-family: 'Montserrat', sans-serif;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    background-image: url("img/pattern.png");
+    background-color: #FFFF;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* Подгоняет картинку по размеру */
+    transform: scaleX(-1); /* Отражение по горизонтали */
+}
+
+button {
+    font-family: 'Montserrat', sans-serif;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}

@@ -1,0 +1,200 @@
+.container--card {
+    display:flex;
+    padding: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 1121px;
+    height: 613px;
+    background-color: #DECFDC;
+    margin: 0;
+    border-radius: 0 0 15px 15px;
+    box-sizing: border-box;
+
+}
+
+.container--sale--card {
+    width: 506px;
+    height: 450px;
+    top: 40px;
+    left: 30px;
+    margin-right: 30px;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.container--sale--card img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.container--contest--card {
+    width: 506px;
+    height: 450px;
+    top: 40px;
+    left: 30px;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.sale--img {
+    width: 506px;
+    height: 380px;
+
+}
+
+.contest--img {
+    width: 506px;
+    height: 240px;
+}
+
+.contest--img--logo {
+    width: 126px;
+    height: 125px;
+    margin-left: 320px;
+    margin-top: -188px;
+    order: 1;
+}
+
+.layout--cards--recept {
+    display: block;
+
+}
+
+.container--cards--recept {
+
+}
+
+.container--cards--recept--row {
+    display:flex;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-radius: 0 0 15px 15px;
+    box-sizing: border-box;
+}
+
+.card--recept {
+    width: 347px;
+    height: 430px;
+    background-color: white;
+    border-radius: 25px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 2px 2px rgb(217, 217, 217);
+}
+
+.card--recept img {
+    max-width: 100%;
+    height: 240px;
+    display: block;
+}
+
+.card--recept--img {
+    width: 347px;
+}
+
+.container--card--recept {
+    margin-top: 30px;
+    width: 1120px;
+    height: 862px;
+    display: grid;
+    border-radius: 18px;
+    box-shadow: 0 1px 22px 0 rgba(0, 0, 0, 0.1);
+    background: rgba(222, 233, 111, 0.8);
+}
+.card--recept--product {
+   margin: 16px;
+}
+.img--product {
+    width: 490px;
+    height: 751px;
+}
+
+.card--text--under--img {
+    width: 210px;
+    text-align: right;
+    margin-left: 168px;
+    margin-top: 6px;
+}
+
+.polygon2 {
+    max-width: 22px;
+    max-height: 20px;
+    margin-top: 4px;
+    margin-left: 3px;
+    margin-bottom: 1px;
+
+}
+
+.container--card--info--recept {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 8px;
+    max-width: 568px;
+}
+
+.header--recept {
+    width: 554px;
+    margin-top: 16px;
+    text-align: left;
+}
+
+.container--text--list--recept {
+    grid-column: 2 / span 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+}
+
+.container--text--list--cooking {
+    grid-column: 3 / span 1;
+    margin-left: 80px;
+}
+
+.container--card--cooking {
+    display: grid;
+    /*grid-template-columns: auto 1fr;*/
+    margin-top: 12px;
+}
+
+.container--text--list--product {
+    /*grid-column: 2 / span 1;*/
+}
+
+.ingredients {
+    margin-bottom: 14px;
+}
+
+.container--methods--cooking {
+    display: flex;
+    flex-direction: row;
+    margin-top: 22px;
+    max-width: 560px;
+}
+
+.text--row--left {
+    grid-column: 2 / span 1;
+    max-width: 510px;
+}
+
+.text--row--right {
+    grid-column: 3 / span 1;
+    margin-left: 10px;
+    max-width: 510px;
+}
+
+.container--row--left {
+    box-sizing: border-box;
+    max-width: 550px;
+}
+
+.container--cooking--hashtag {
+    transform: rotate(-90.00deg);
+    margin-left: 400px;
+}
+
+.container--hashtag {
+    display: flex;
+    flex-flow: nowrap;
+    margin-left: 500px;
+}
